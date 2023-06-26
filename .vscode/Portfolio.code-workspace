@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"io.h": "c",
+			"led_library.h": "c",
+			"stdlib.h": "c",
+			"delay.h": "c",
+			"stdio.h": "c",
+			"setbaud.h": "c",
+			"usart.h": "c"
+		}
+	}
+}
